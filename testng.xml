@@ -2,7 +2,7 @@
     <test name="Inbox Count Test">
         <parameter name="browserPath" value=".\\chromedriver.exe" />
         <parameter name="mainPage" value="https://tut.by" />
-        <parameter name="login" value="sanono89" />19
+        <parameter name="login" value="sanono89" />
         <parameter name="password" value="Nkp61D70!" />
         <classes>
             <class name="org.test.tests.InboxCountMessageTest" />
